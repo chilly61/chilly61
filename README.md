@@ -20,10 +20,15 @@ Currently work as an AI resident in **Apziva**, and responsible for AI section i
 
 ## 🛠 Technical Stack
 **Languages:** Python, SQL
+
 **Machine Learning:** scikit-learn, TensorFlow, Keras, PyTorch
+
 **NLP & LLMs:** Hugging Face Transformers, LoRA, QLoRA, RAG, Sentence-BERT
+
 **Computer Vision:** CNN, LSTM, ResNet, OpenCV, OCR (EasyOCR, PaddleOCR)
+
 **Tools & Frameworks:** FastAPI, Git, Google Colab, Weights & Biases
+
 ## 📂 Featured Projects
 ### [LLM-Powered MBS Investment Agent](https://github.com/chilly61/blockchain_financial_AI_Section_MVP)
 - Built an LLM-powered agent for mortgage-backed securities investment analysis
