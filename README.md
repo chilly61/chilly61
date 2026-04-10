@@ -35,7 +35,7 @@ Currently work as an AI resident in **Apziva**, and responsible for AI section i
 - Implemented intent recognition, role-based access control, and complete audit logging
 - Integrated with blockchain platform for real-time portfolio queries
 
-### [Computer Vision & OCR](https://github.com/chilly61/Apziva-D)
+### [MonReader & Blind Reading Assistant](https://github.com/chilly61/Apziva-D)
 - Progressive CV pipeline: HOG → CNN (ResNet-50) → LSTM for video flip detection
 - Achieved 98.7% accuracy with LSTM sequence modeling
 - Compared traditional OCR vs. Vision Language Models (LLaVA, Qwen2-VL, Llama-4-Scout)
