@@ -53,4 +53,4 @@ Progressive path through ML fundamentals → Deep Learning → LLMs, demonstrate
 - **Project C:** Advanced NLP with LLM fine-tuning
 - **Project D:** Computer vision with CNN/LSTM and VLM comparison, full stack training from EDA, OCR, audio support to FastAPI
 ## 📫 Connect
-- [LinkedIn](www.linkedin.com/in/yuhao-huang-a732a92a0) *(add your LinkedIn URL)*
+- [LinkedIn](www.linkedin.com/in/yuhao-huang-a732a92a0)
