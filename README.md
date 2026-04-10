@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am Machine Learning & Data enthusiast based in Kelowna, BC. Open to opportunities in Data Science, Machine Learning, AI Engineering, and Full Stack Development.
-Currently work as an AI resident in Apziva, and responsible for AI section in the blockchain-financial project with my supervisor.
+Currently work as an AI resident in **Apziva**, and responsible for AI section in the blockchain-financial project with my supervisor.
 
 ## 🛠 Technical Stack
 **Languages:** Python, SQL
