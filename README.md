@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there， I am Yuhao Huang 👋
 
 <!--
 **chilly61/chilly61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Machine Learning & Data enthusiast based in Kelowna, BC. Open to opportunities in Data Science, Machine Learning, AI Engineering, and Full Stack Development.
+I am Machine Learning & Data enthusiast based in Kelowna, BC. Open to opportunities in Data Science, Machine Learning, AI Engineering, and Full Stack Development.
+Currently work as an AI resident in Apziva, and responsible for AI section in the blockchain-financial project with my supervisor.
 
 ## 🛠 Technical Stack
 **Languages:** Python, SQL
