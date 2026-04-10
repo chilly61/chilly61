@@ -19,11 +19,11 @@ I am Machine Learning & Data enthusiast based in Kelowna, BC. Open to opportunit
 Currently work as an AI resident in **Apziva**, and responsible for AI section in the blockchain-financial project with my supervisor.
 
 ## 🛠 Technical Stack
-**Languages:** Python, SQL
+**Languages:** Python, SQL, Matlab
 
-**Machine Learning:** scikit-learn, TensorFlow, Keras, PyTorch
+**Machine Learning:** scikit-learn, TensorFlow, Keras, PyTorch, Pandas
 
-**NLP & LLMs:** Hugging Face Transformers, LoRA, QLoRA, RAG, Sentence-BERT
+**NLP & LLMs:** Hugging Face Transformers, LoRA, QLoRA, RAG, Sentence-BERT, LLaVA, Qwen, CSM, Dia
 
 **Computer Vision:** CNN, LSTM, ResNet, OpenCV, OCR (EasyOCR, PaddleOCR)
 
