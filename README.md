@@ -39,17 +39,18 @@ Currently work as an AI resident in **Apziva**, and responsible for AI section i
 - Progressive CV pipeline: HOG → CNN (ResNet-50) → LSTM for video flip detection
 - Achieved 98.7% accuracy with LSTM sequence modeling
 - Compared traditional OCR vs. Vision Language Models (LLaVA, Qwen2-VL, Llama-4-Scout)
+- Provided a web platform which transforms pictures to characters with audio support
 
 ### [AI Talent Matching System](https://github.com/chilly61/B7yHX82yHQ3Wf1bT)
 - End-to-end NLP pipeline for candidate-job matching using TF-IDF, Word2Vec, and Sentence-BERT
 - Applied LLM fine-tuning techniques (LoRA, QLoRA, RAG) for semantic understanding
 - Compared traditional ML vs. transformer-based approaches
   
-## 📚 Learning Journey
+## 📚 Learning Journey in Apziva
 Progressive path through ML fundamentals → Deep Learning → LLMs, demonstrated across Apziva projects:
-- **Project 1:** Customer satisfaction prediction (classification baseline)
+- **Project A:** Customer satisfaction prediction (classification baseline)
 - **Project B:** Bank marketing classification + customer segmentation
 - **Project C:** Advanced NLP with LLM fine-tuning
-- **Project D:** Computer vision with CNN/LSTM and VLM comparison
+- **Project D:** Computer vision with CNN/LSTM and VLM comparison, full stack training from EDA, OCR, audio support to FastAPI
 ## 📫 Connect
-- [LinkedIn](your-linkedin-url) *(add your LinkedIn URL)*
+- [LinkedIn](www.linkedin.com/in/yuhao-huang-a732a92a0) *(add your LinkedIn URL)*
