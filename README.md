@@ -30,7 +30,7 @@ Currently work as an AI resident in **Apziva**, and responsible for AI section i
 **Tools & Frameworks:** FastAPI, Git, Google Colab, Weights & Biases
 
 ## 📂 Featured Projects
-### [LLM-Powered MBS Investment Agent](https://github.com/chilly61/blockchain_financial_AI_Section_MVP)
+### [OpenBits - AI section (current)](https://github.com/chilly61/blockchain_financial_AI_Section_MVP)
 - Built an LLM-powered agent for mortgage-backed securities investment analysis
 - Implemented intent recognition, role-based access control, and complete audit logging
 - Integrated with blockchain platform for real-time portfolio queries
